@@ -1,0 +1,14 @@
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\bin\Debug\net8.0\02-guess-the-number.exe
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\bin\Debug\net8.0\02-guess-the-number.deps.json
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\bin\Debug\net8.0\02-guess-the-number.runtimeconfig.json
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\bin\Debug\net8.0\02-guess-the-number.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\bin\Debug\net8.0\02-guess-the-number.pdb
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.AssemblyInfoInputs.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.AssemblyInfo.cs
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.csproj.CoreCompileInputs.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\refint\02-guess-the-number.dll
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.pdb
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\02-guess-the-number.genruntimeconfig.cache
+C:\Users\spart\Desktop\courses\c-sharp\15-proyectos\02-guess-the-number\obj\Debug\net8.0\ref\02-guess-the-number.dll
